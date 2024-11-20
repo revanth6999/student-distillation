@@ -1,3 +1,13 @@
 /.ipynb_checkpoints
 /images/.ipynb_checkpoints
 .DS_Store
+/coco2017
+/images
+/Papers
+/data
+/logs
+/checkpoints
+/__pycache__
+/wandb
+/sample_images
+/wide_resnet_2810_pretrained.pt
